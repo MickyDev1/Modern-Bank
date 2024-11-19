@@ -14,7 +14,7 @@ const Footer = () => (
           />
         </a>
         <p className={`${styles.paragraph} mt-4 max-w-[310px]`}>
-          A new way to make the payments easy, reliable and secure.
+          A New Way to make the payments easy, reliable and secure.
         </p>
       </div>
 
