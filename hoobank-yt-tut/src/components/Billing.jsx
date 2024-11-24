@@ -23,8 +23,7 @@ const Billing = () => (
         data-aos="slide-left"
         className={`${styles.paragraph} max-w-[470px] mt-5`}
       >
-        Elit enim sed massa etiam. Mauris eu adipiscing ultrices ametodio aenean
-        neque. Fusce ipsum orci rhoncus aliporttitor integer platea placerat.
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veritatis ducimus minus nisi, ullam consequatur nam facilis quo provident voluptates porro sit esse sapiente error totam amet saepe perspiciatis vel minima?
       </p>
 
       <div
